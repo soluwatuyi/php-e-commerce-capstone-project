@@ -1,5 +1,5 @@
 # php-e-commerce-capstone-project
 **Database name**: shopx
-Admin login detail:
+Admin login details:
 **Username**: admin
 **Password**: 123456
